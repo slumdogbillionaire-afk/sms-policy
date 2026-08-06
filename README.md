@@ -1,23 +1,38 @@
-# SMS Terms of Service & Privacy Policy
+---
+title: Ember SMS Notifications — Subscribe, Terms & Privacy
+---
 
-Personal notification service. Last updated: July 10, 2026.
+# Ember Personal Assistant — SMS Notifications
 
-## SMS Terms of Service
+**Program:** Ember, the personal assistant of Adam Veitenheimer (sole proprietor).
+**Messages are sent from:** +1 (609) 739-8284
 
-This messaging program delivers personal notifications, reminders, and requested information to the account owner and to individuals who have personally asked the owner to receive them. Consent to receive these messages is given directly to this program by each recipient and is not tied to any other agreement.
+This is a personal, non-marketing notification service. Ember sends personal
+reminders, status alerts, and information the recipient has asked for, on Adam's
+behalf.
 
-Message frequency varies. Message and data rates may apply.
+## How to subscribe (opt in)
 
-Reply STOP at any time to stop receiving messages. Reply HELP for help.
+**Text the word `START` to +1 (609) 739-8284 from your mobile phone.**
 
-Carriers are not liable for delayed or undelivered messages.
+You will immediately receive this confirmation message:
 
-## Privacy Policy
+> Ember (Adam's personal assistant): you're now subscribed to reminders and
+> notifications. Message frequency varies. Msg and data rates may apply. Reply
+> HELP for help, STOP to unsubscribe.
 
-We collect only the phone numbers of recipients who opt in, and we use them solely to deliver the messages they requested.
+By texting `START` you consent to receive the personal notifications and
+information described above. Consent is not a condition of any purchase and is
+not bundled with any other agreement.
 
-We do not share, sell, or otherwise provide your mobile phone number or messaging consent information to any third parties or affiliates for marketing or promotional purposes. Text messaging originator opt-in data and consent will not be shared with any third parties.
+- **Message frequency varies.**
+- **Message and data rates may apply.**
+- Reply **STOP** at any time to unsubscribe.
+- Reply **HELP** for help.
 
-Message frequency varies. Message and data rates may apply.
+## Program documents
 
-You may opt out at any time by replying STOP to any message. Reply HELP for help.
+- [SMS Terms of Service](https://slumdogbillionaire-afk.github.io/sms-policy/terms/)
+- [Privacy Policy](https://slumdogbillionaire-afk.github.io/sms-policy/privacy/)
+
+_Last updated: August 6, 2026._
