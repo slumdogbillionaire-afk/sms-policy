@@ -1,5 +1,5 @@
 ---
-title: Ember SMS Notifications — Terms of Service
+title: "Ember SMS Notifications - Terms of Service"
 ---
 
 # SMS Terms of Service

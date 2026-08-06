@@ -1,5 +1,5 @@
 ---
-title: Ember SMS Notifications — Privacy Policy
+title: "Ember SMS Notifications - Privacy Policy"
 ---
 
 # Privacy Policy

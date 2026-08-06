@@ -1,5 +1,5 @@
 ---
-title: Ember SMS Notifications — Subscribe, Terms & Privacy
+title: "Ember SMS Notifications - Subscribe, Terms and Privacy"
 ---
 
 # Ember Personal Assistant — SMS Notifications
