@@ -32,7 +32,7 @@ not bundled with any other agreement.
 
 ## Program documents
 
-- [SMS Terms of Service](https://slumdogbillionaire-afk.github.io/sms-policy/terms/)
-- [Privacy Policy](https://slumdogbillionaire-afk.github.io/sms-policy/privacy/)
+- [SMS Terms of Service](https://slumdogbillionaire-afk.github.io/sms-policy/terms.html)
+- [Privacy Policy](https://slumdogbillionaire-afk.github.io/sms-policy/privacy.html)
 
 _Last updated: August 6, 2026._
