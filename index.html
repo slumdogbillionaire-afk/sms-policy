@@ -3,56 +3,92 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ember Personal Assistant - SMS Notifications</title>
+<title>Veitenheimer Notifications — SMS Reminder & Notification Service</title>
 <style>
-  body{font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-    max-width:720px;margin:2rem auto;padding:0 1.1rem;line-height:1.6;color:#1a1a1a}
-  h1{font-size:1.7rem} h2{font-size:1.2rem;margin-top:1.8rem}
-  blockquote{border-left:3px solid #ccc;margin:1rem 0;padding:.3rem 1rem;color:#444;background:#f7f7f7}
-  code{background:#f0f0f0;padding:.1rem .35rem;border-radius:3px}
-  a{color:#0b5cad} .meta{color:#555}
-  .cta{background:#eef6ff;border:1px solid #cfe3f7;border-radius:8px;padding:1rem 1.1rem;margin:1rem 0}
+  :root{--ink:#16202b;--muted:#5a6672;--line:#e2e8ee;--brand:#0b5cad;--bg:#fff;--panel:#f4f8fc}
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;color:var(--ink);background:var(--bg);line-height:1.62}
+  header.site{border-bottom:1px solid var(--line);background:#fff}
+  .wrap{max-width:820px;margin:0 auto;padding:0 1.2rem}
+  nav{display:flex;flex-wrap:wrap;gap:1.1rem;align-items:center;padding:1rem 0}
+  nav .brand{font-weight:700;font-size:1.05rem;color:var(--ink);text-decoration:none;margin-right:auto}
+  nav a{color:var(--brand);text-decoration:none;font-size:.95rem}
+  nav a:hover{text-decoration:underline}
+  main{padding:2.2rem 0 1rem}
+  h1{font-size:1.85rem;margin:.2rem 0 .4rem}
+  h2{font-size:1.2rem;margin-top:2rem}
+  .lead{font-size:1.08rem;color:var(--muted)}
+  .cta{background:var(--panel);border:1px solid #cfe3f7;border-radius:10px;padding:1.2rem 1.3rem;margin:1.6rem 0}
+  .cta strong{font-size:1.05rem}
+  blockquote{border-left:3px solid #cbd6e0;margin:1rem 0;padding:.5rem 1rem;color:#3d4855;background:#f7fafc;border-radius:0 6px 6px 0}
+  code{background:#eef2f6;padding:.12rem .4rem;border-radius:4px}
+  ul{padding-left:1.2rem}
+  a{color:var(--brand)}
+  footer{border-top:1px solid var(--line);margin-top:2.5rem;color:var(--muted);font-size:.9rem}
+  footer .wrap{padding:1.4rem 1.2rem}
+  .facts{display:flex;flex-wrap:wrap;gap:1.5rem;margin:1.2rem 0}
+  .facts div{min-width:180px}
+  .facts b{display:block;color:var(--ink);font-size:.82rem;text-transform:uppercase;letter-spacing:.04em}
 </style>
 </head>
 <body>
-<h1>Ember Personal Assistant &mdash; SMS Notifications</h1>
-<p class="meta"><strong>Program:</strong> Ember, the personal assistant of Adam Veitenheimer
-(sole proprietor).<br>
-<strong>Messages are sent from:</strong> +1 (855) 503-0408</p>
+<header class="site"><div class="wrap"><nav>
+  <a class="brand" href="./">Veitenheimer Notifications</a>
+  <a href="./">Home</a>
+  <a href="about.html">About</a>
+  <a href="terms.html">SMS Terms</a>
+  <a href="privacy.html">Privacy</a>
+</nav></div></header>
 
-<p>This is a personal, non-marketing notification service. Ember sends personal reminders,
-status alerts, and information the recipient has asked for, on Adam's behalf.</p>
+<main class="wrap">
+  <h1>Veitenheimer Notifications</h1>
+  <p class="lead">A personal SMS reminder and notification service operated by Adam Veitenheimer,
+  sole proprietor, in Burlington Township, New Jersey.</p>
 
-<p><strong>This is a non-commercial, personal-use service.</strong> It is not a business,
-marketing, or promotional messaging program. Nothing is advertised, sold, or solicited.
-Messages are strictly personal notifications between the sole-proprietor owner and people who
-personally know him and asked to receive them.</p>
+  <div class="facts">
+    <div><b>Operated by</b>Adam Veitenheimer (sole proprietor)</div>
+    <div><b>Sending number</b>+1 (855) 503-0408</div>
+    <div><b>Location</b>Burlington Township, NJ, USA</div>
+    <div><b>Contact</b><a href="mailto:atveitenheimer@hotmail.com">atveitenheimer@hotmail.com</a></div>
+  </div>
 
-<h2>How to subscribe (opt in)</h2>
-<div class="cta">
-<p><strong>Text the word START to +1 (855) 503-0408 from your mobile phone.</strong></p>
-<p>You will immediately receive this confirmation message:</p>
-<blockquote>Ember (Adam's personal assistant): you're now subscribed to reminders and
-notifications. Message frequency varies. Msg and data rates may apply. Reply HELP for help,
-STOP to unsubscribe.</blockquote>
-</div>
+  <p>Veitenheimer Notifications sends reminders, schedule updates, and requested information by
+  text message to subscribers who have opted in. Every recipient chooses to receive these
+  messages and can stop them at any time. This service is active and messages are delivered from
+  <strong>+1 (855) 503-0408</strong>.</p>
 
-<p>By texting START you consent to receive the personal notifications and information described
-above. Consent is not a condition of any purchase and is not bundled with any other agreement.</p>
+  <h2>Subscribe (opt in)</h2>
+  <div class="cta">
+    <p><strong>Text the word START to +1 (855) 503-0408 from your mobile phone.</strong></p>
+    <p>You will immediately receive this confirmation:</p>
+    <blockquote>Veitenheimer Notifications: you're subscribed to reminders &amp; updates.
+    Msg frequency varies. Msg &amp; data rates may apply. Reply HELP for help, STOP to
+    unsubscribe.</blockquote>
+    <p>By texting START you consent to receive these text notifications. Consent is not a
+    condition of any purchase and is not shared with anyone.</p>
+  </div>
 
-<ul>
-  <li><strong>Message frequency varies.</strong></li>
-  <li><strong>Message and data rates may apply.</strong></li>
-  <li>Reply <strong>STOP</strong> at any time to unsubscribe.</li>
-  <li>Reply <strong>HELP</strong> for help.</li>
-</ul>
+  <h2>Program details</h2>
+  <ul>
+    <li><strong>Message frequency varies</strong> based on the reminders and updates you request.</li>
+    <li><strong>Message &amp; data rates may apply</strong> — your mobile carrier's standard rates.</li>
+    <li>Reply <strong>STOP</strong> at any time to unsubscribe.</li>
+    <li>Reply <strong>HELP</strong> for help, or email
+      <a href="mailto:atveitenheimer@hotmail.com">atveitenheimer@hotmail.com</a>.</li>
+  </ul>
 
-<h2>Program documents</h2>
-<ul>
-  <li><a href="https://slumdogbillionaire-afk.github.io/sms-policy/terms.html">SMS Terms of Service</a></li>
-  <li><a href="https://slumdogbillionaire-afk.github.io/sms-policy/privacy.html">Privacy Policy</a></li>
-</ul>
+  <h2>Program documents</h2>
+  <ul>
+    <li><a href="terms.html">SMS Terms of Service</a></li>
+    <li><a href="privacy.html">Privacy Policy</a></li>
+    <li><a href="about.html">About this service</a></li>
+  </ul>
+</main>
 
-<p class="meta">Last updated: August 6, 2026.</p>
+<footer><div class="wrap">
+  Veitenheimer Notifications — operated by Adam Veitenheimer, sole proprietor · Burlington
+  Township, NJ, USA · <a href="mailto:atveitenheimer@hotmail.com">atveitenheimer@hotmail.com</a><br>
+  Messages sent from +1 (855) 503-0408. Reply STOP to unsubscribe, HELP for help.
+</div></footer>
 </body>
 </html>
